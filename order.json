@@ -1,0 +1,100 @@
+[
+{
+    
+
+    "name":"Furniture",
+    "image":"item.png",
+    "price":"250"
+
+},
+{
+    
+
+    "name":"Books",
+    "image":"item.png",
+    "price":"500"
+
+},
+{
+    
+
+    "name":"Shoes",
+    "image":"item.png",
+    "price":"670"
+
+},
+{
+    
+
+    "name":"Ball",
+    "image":"item.png",
+    "price":"100"
+
+},
+{
+    
+
+    "name":"Mobile",
+    "image":"item.png",
+    "price":"8000"
+
+},
+{
+    
+
+    "name":"Blanket",
+    "image":"item.png",
+    "price":"800"
+
+},
+{
+    
+
+    "name":"Pillow",
+    "image":"item.png",
+    "price":"300"
+
+},
+{
+    
+
+    "name":"Air pods",
+    "image":"item.png",
+    "price":"550"
+
+},
+{
+    
+
+    "name":"Laptop",
+    "image":"item.png",
+    "price":"10000"
+
+},
+{
+    
+
+    "name":"Bed",
+    "image":"item.png",
+    "price":"8000"
+
+},
+{
+    
+
+    "name":"Charger",
+    "image":"item.png",
+    "price":"450"
+
+},
+{
+    
+
+    "name":"Kids toys",
+    "image":"item.png",
+    "price":"600"
+
+}
+
+
+]
